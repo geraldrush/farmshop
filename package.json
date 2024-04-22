@@ -96,7 +96,7 @@
     "yaml": "^2.4.1"
   },
   "scripts": {
-    "dev": "tailwindcss -i ./src/styles.css -o ./public/styles.css",
+    "dev": "tailwindcss -i ./src/styles.css -o ./public/styles.css --watch",
     "build": "tailwindcss build"
   },
   "author": "",
