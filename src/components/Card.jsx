@@ -1,6 +1,6 @@
 import React from 'react'
 
-const card = () => {
+const Card = () => {
   return (
     <>
     
@@ -73,4 +73,4 @@ const card = () => {
   )
 }
 
-export default card
+export default Card
