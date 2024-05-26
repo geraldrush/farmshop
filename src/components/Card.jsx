@@ -4,7 +4,7 @@ const Card = () => {
   return (
     <>
     
-    <div className="mt-2 mb-2 flex justify-between overflow-x-auto gap-10">
+    
               <div className="whitespace-wrap bg-white rounded-md overflow-hidden shadow-md p-0 relative sm:flex justify-center min-w-full md:flex justify-start ">
                 <div>
                   <img
@@ -67,7 +67,6 @@ const Card = () => {
                   </div>
                 </div>
               </div>
-        </div>
     
     </>
   )

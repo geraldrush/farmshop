@@ -24,7 +24,11 @@ const App = () => {
           <h2 className="font-bold mt-12 pb-2 border-b border-gray-200 text-center text-xl">
             On Promo
           </h2>
+          <div className="mt-2 mb-2 flex justify-between overflow-x-auto gap-10">
           <Card />
+          <Card />
+          <Card />
+          </div>
 
           <div className="bg-white rounded-md overflow-hidden shadow-md p-0 relative sm:flex justify-center min-w-full md:w-1/3 mt-6">
             <div>
