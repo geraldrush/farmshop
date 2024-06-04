@@ -3,12 +3,10 @@ import React from 'react'
 const Card = () => {
   return (
     <>
-    
-    
-              <div className="whitespace-wrap bg-white rounded-md overflow-hidden shadow-md p-0 relative sm:flex justify-center min-w-full md:flex justify-start ">
+              <div className="whitespace-wrap bg-white rounded-md overflow-hidden shadow-md p-0 relative w-1/3 sm:flex justify-center w-full md:flex justify-start">
                 <div>
                   <img
-                    src="img/restaurant.jpg"
+                    src="src/assets/img/restaurant.jpg"
                     alt="plums"
                     className="w-max sm:h-48 object-cover"
                   />

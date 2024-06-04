@@ -15,7 +15,7 @@ const App = () => {
         <div className="m-0">
           <img
             className="w-full object-cover h-[50vh]"
-            src="img/restaurant.jpg"
+            src="src/assets/img/restaurant.jpg"
             alt="Restaurant"
           />
         </div>
@@ -39,7 +39,7 @@ const App = () => {
               />
               <div className="sticker">
                 <svg
-                  data-slot="icon"
+                  data-s-ot="icon"
                   fill="none"
                   strokeWidth="1.5"
                   stroke="currentColor"
